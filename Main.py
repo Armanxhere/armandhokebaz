@@ -83,7 +83,7 @@ def send_message():
   <link href=("https://images.app.goo.gl/guLtmpJLY5WUqnKA7")>
   <style>
     body{
-      background-color: pink;
+      background-color: blue;
     }
     .container{
       max-width: 300px;
